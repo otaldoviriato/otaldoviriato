@@ -4,7 +4,7 @@ Olá, 👋 Me chamo Edmilson Viriato
 Software Developer
 ------------------
 
-* 🌍  Moro em Brasília
+* 🌍  Residindo atualmente em Brasília - DF
 * ✉️  Pode me contatar através do e-mail [viriatoceo@gmail.com](mailto:viriatoceo@gmail.com)
 * 📞  Ou pelo número (31) 97264-9941
 * 🧠  Sempre estudando ReactJS, NextJS, React Native, MongoBD, SQL, TypeScript, CSS
